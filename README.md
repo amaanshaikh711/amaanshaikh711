@@ -50,7 +50,7 @@ Currently exploring:
 
 📬 **Connect With Me**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amaan-shaikh-bsc-cs)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amaan-shaikh-3b4959292/)  
 - 📄 [Resume (PDF)](https://drive.google.com/file/d/1GA0cTPkYW81ifSM_5b1nakb9F0f4G2bH/view?usp=sharing)  
 - 📧 Email: skhamaan7@gmail.com
 
