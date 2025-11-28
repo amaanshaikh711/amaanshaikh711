@@ -1,4 +1,4 @@
-👋 Hi there, I'm **Amaan Shaikh**
+👋 Hi there, I'm **Aman Shaikh**
 
 🎓 Computer Science Student | 💻 Web Developer | 🚀 Tech Explorer  
 *University of Mumbai*
