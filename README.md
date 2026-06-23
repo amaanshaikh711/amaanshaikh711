@@ -122,10 +122,6 @@ An AI-powered content moderation system designed to detect, classify, and analyz
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanshaikh711&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=amaanshaikh711&theme=github_dark&hide_border=true"/>
-</p>
-
 ---
 
 # 🎯 2026 Goals
