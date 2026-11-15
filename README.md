@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Shaikh</h1>
 
-<h3 align="center">Computer Science Student | Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Computer Science Graduate | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   🎓 B.Sc. Computer Science @ University of Mumbai <br>
